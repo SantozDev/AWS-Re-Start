@@ -84,9 +84,11 @@ Irá garantir uma navegação estável e confiável para os usuários.
 
 O Amazon VPC (Virtual Private Cloud) é um serviço que permite criar redes isoladas logicamente na AWS.<br>
 * [![Public-subnet-32.png](https://i.postimg.cc/6QH9GNbY/Public-subnet-32.png)](https://postimg.cc/WDkRQxvk) Sub-rede pública
+* 
 As subredes públicas são para os recursos que precisam de acesso à internet. <br>
 
 * [![Private-subnet-32.png](https://i.postimg.cc/HkgWqz74/Private-subnet-32.png)](https://postimg.cc/hf2qx9sf) Sub-rede privada
+* 
 As subredes privadas permitem proteger recursos que não devem estar diretamente acessíveis na internet.
 
 * [![GLOBALTABLES-DYNAMO-32.png](https://i.postimg.cc/1RFQy6SW/GLOBALTABLES-DYNAMO-32.png)](https://postimg.cc/nMn5kXC7) DynamoDB Global Tables
